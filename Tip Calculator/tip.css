@@ -1,0 +1,39 @@
+body{
+    background-color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    text-align: center;
+    padding: 200px;
+    font-weight:lighter;
+    font-size: 25px;
+}
+
+#page{
+    background-color: white;
+    border-radius: 20px;
+    margin: 100px;
+}
+
+#totaltip{
+    background-color:thistle;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+#heading{
+    background-color: black;
+    color: white;
+
+}
+
+input{
+    padding: 8px;
+}
+
+button{
+    background-color: tomato;
+    font-weight: bolder;
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+}
